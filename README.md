@@ -6,6 +6,4 @@ Simply make a switch.  I've also included a word document file that you can alt
 
 
 Please give my project a star on Github and follow me there. It aids in the enhancement of my profile.
-
-
 Thank you for chacking this Repositorie.
